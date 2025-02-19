@@ -1,6 +1,6 @@
 # 🚀 Hey there! I am Indranooj Kamble 
 
-Hey there, fellow coders and creators! I'm Indranooj Kamble, a full-stack developer and UI/UX enthusiast passionate about building innovative and user-centric digital experiences. I thrive on transforming ideas into reality, whether it's through elegant code or pixel-perfect designs.
+Hey there, fellow coders and creators! I'm Indranooj Kamble, a front-end developer and UI/UX enthusiast passionate about building innovative and user-centric digital experiences. I thrive on transforming ideas into reality, whether it's through elegant code or pixel-perfect designs.
 
 ## 🛠️ Tech Stack - My Arsenal of Innovation
 
